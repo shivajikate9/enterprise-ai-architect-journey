@@ -1,0 +1,10 @@
+name = input("what is your name")
+current_role = input("what is your current role")
+target_role = input("what is AI role you are targeting")
+
+print("\ncareer transition plan")
+print("-------------------------")
+print(f"name: {name}")
+print(f"current role: {current_role}")
+print(f"target role: {target_role}")
+print("program duration: 112 days")
