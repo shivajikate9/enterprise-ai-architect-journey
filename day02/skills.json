@@ -1,0 +1,20 @@
+{
+    "current_skills": [
+        "Azure",
+        "OCI",
+        "VMware",
+        "Kubernetes",
+        "Terraform",
+        "Python"
+    ],
+    "target_skills": [
+        "Python",
+        "LLMs",
+        "RAG",
+        "Agentic AI",
+        "Vector Databases",
+        "AI Security",
+        "LLMOps",
+        "AI Architecture"
+    ]
+}
